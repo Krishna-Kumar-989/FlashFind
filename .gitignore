@@ -1,0 +1,70 @@
+# Build results
+bin/
+obj/
+
+# Rider project files
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image thumbnails
+Thumbs.db
+ehthumbs.db
+
+# VS Code directories
+.vscode/
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.temp
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows Form designer generated files
+*.Designer.cs
+
+# Publish files
+publish/
+
+# JetBrains Rider
+.idea/
+
+# DotCover
+*.dotCover
+
+# VS working folder
+.vs/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Test results
+TestResult.xml
+TestResults/
+*.VisualState.xml
+*.cache
+*.coverage
+*.coveragexml
+
+# IIS Express
+.vsconfig
+/.vs/
+/iisexpress/
+
+# Azure Pipelines
+.azure-pipelines/
