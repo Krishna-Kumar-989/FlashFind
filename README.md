@@ -70,11 +70,14 @@ A simple, one-click installer that:
 
 ---
 
-##📷 Screenshots
+📷 Screenshots
+
+![Screenshot 2025-05-12 191725](https://github.com/user-attachments/assets/0ffc69cf-08db-442c-9785-87e205df142e)
+
+![Screenshot 2025-05-12 191642](https://github.com/user-attachments/assets/ab4015f7-2651-48be-9a20-f43332376d48)
 
 
-
-
+---
 
 ## ⚡ Productivity First
 
